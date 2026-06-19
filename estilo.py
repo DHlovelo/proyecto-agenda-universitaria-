@@ -1,0 +1,5 @@
+PRIMARY = "#003B7A"   # Azul Unifranz
+SECONDARY = "#00AEEF" # Celeste
+DARK = "#1E1E1E"
+WHITE = "#FFFFFF"
+ACCENT = "#FFD700"
