@@ -1,14 +1,1 @@
-[
-    {
-        "username": "",
-        "password": "",
-        "xp": 0,
-        "level": 1
-    },
-    {
-        "username": "pepeperales",
-        "password": "123456",
-        "xp": 0,
-        "level": 1
-    }
-]
+{"username": "pepe", "xp": 150, "level": 2, "materias": [], "tareas": [], "examenes": [], "tema": "Oscuro", "frase_personalizada": "tu puedes chavitoya se acaba el semestre"}
